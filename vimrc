@@ -7,8 +7,6 @@ filetype on
 
 syntax on
 
-set cursorline
-
 " tabs
 
 set shiftwidth=4
@@ -19,3 +17,5 @@ set expandtab
 set incsearch
 set ignorecase
 set hlsearch
+
+set ls=2
