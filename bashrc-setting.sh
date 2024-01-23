@@ -1,1 +1,1 @@
-grep -qF 'parse_git_branch' hola.txt || cat prompt-bash-git >> hola.txt
+grep -qF 'parse_git_branch' ~/.bashrc || cat prompt-bash-git >> ~/.bashrc
